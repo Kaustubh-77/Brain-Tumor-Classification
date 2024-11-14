@@ -4,4 +4,4 @@ developed two models, SVC with accuracy of 86% and Logistic regression with accu
 The input is MRI tumor scans.
 This project underscores the transformative potential of advanced computer vision technologies in improving early detection and diagnostic precision in critical healthcare applications. 
 
-**Tools**: Python programming, Sci-Kit Learn, and OpenCV.
+**Tools**: Python Jupyter Notebook, Sci-Kit Learn, and OpenCV.
